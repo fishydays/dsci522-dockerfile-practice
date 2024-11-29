@@ -2,7 +2,7 @@
 
 Except where otherwise noted, the example programs and other software provided in the `dsci522-dockerfile-practice` repository are made available under the MIT license.
 
-Note: This license applies only to the `docker-publish.yml` file which is copied from https://github.com/ttimbers/dsci522-dockerfile-practice/blob/main/.github/workflows/docker-publish.yml.
+Note: This license applies only to the `docker-publish.yml` file which is copied from <https://github.com/ttimbers/dsci522-dockerfile-practice/blob/main/.github/workflows/docker-publish.yml>.
 
 MIT License
 
