@@ -1,3 +1,7 @@
+# Software
+
+Except where otherwise noted, the example programs and other software provided in the dsci522-dockerfile-practice repository are made available under the MIT license.
+
 MIT License
 
 Copyright (c) 2024 Elaine Chu
