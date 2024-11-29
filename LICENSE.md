@@ -1,10 +1,12 @@
 # Software
 
-Except where otherwise noted, the example programs and other software provided in the dsci522-dockerfile-practice repository are made available under the MIT license.
+Except where otherwise noted, the example programs and other software provided in the `dsci522-dockerfile-practice` repository are made available under the MIT license.
+
+Note: This license applies only to the `docker-publish.yml` file which is copied from https://github.com/ttimbers/dsci522-dockerfile-practice/blob/main/.github/workflows/docker-publish.yml.
 
 MIT License
 
-Copyright (c) 2024 Elaine Chu
+Copyright (c) 2024 Tiffany Timbers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
